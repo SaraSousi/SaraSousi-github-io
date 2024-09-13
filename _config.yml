@@ -6,11 +6,10 @@ show_downloads: true
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : Sara Sousi
+title                    : "Sara Sousi"
 title_separator          : "-"
 name                     : &name "Sara Sousi"
-#description              : &description "personal description"
-url                      : "https://sarasousi.github.io"
+#url                      : "https://sarasousi.github.io"
 repository               : "SaraSousi/SaraSousi.github.io"
 
 author:
