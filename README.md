@@ -7,7 +7,7 @@
 - BSc (Hons) Mathematics @ The University of Warwick (_2016-2019_)
 
 ## Work & Research Experience
-**Senior Data Scientist Consultant @ EY - Strategy & Transaction (_April 2023 - Present_)**
+**Senior Data Science Consultant @ EY - Strategy & Transaction (_April 2023 - Present_)**
 - Led the opportunity sizing for the NHS One Digital Citizen and Shared Care Records pathway used to feed into the business cases to allocate £3.5M for transforming social care with technology. 
 - Independently reviewed the sales forecast model of a $7B pharmaceutical portfolio’s sales using ETS in R, improving accuracy and authoring a detailed report.
 - Developed a multi-criteria decision analysis framework and opportunity sizing model for NHS Digital Channels for the NHS App opportunity sizing, integrating various weighted factors.
@@ -21,7 +21,7 @@
 - Supervising multiple medical students in our research group across different research projects.
 - Supervised by (Professor Afshin Mosahebi)[https://profiles.ucl.ac.uk/6101-afshin-mosahebi/about]
 
-**Data Scientist Consultant @ EY (_September 2021 - March 2023_)**
+**Data Science Consultant @ EY (_September 2021 - March 2023_)**
 - Independently validated a £206 billion Markov chain model using advanced statistical techniques in R.
 - Created a dynamic web scraping and automated reporting tool for NHS England, reducing report generation time to under 10 minutes, used for bids and client conversations; requested to be bought. 
 - Implemented a Python-based ETL pipeline for Qualtrics and proforma data, enabling real-time updates and reducing manual handling, reducing manual data handing by 80%. 
