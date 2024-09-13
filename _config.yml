@@ -27,8 +27,8 @@ author:
   linkedin         : "sara-sousi"
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=P64jnJ8AAAAJ&hl=en"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0494-5138"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Sara+Sousi&sort=date"
+  orcid            : "https://orcid.org/0000-0002-0494-5138"
+  #pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Sara+Sousi&sort=date"
   researchgate     : "https://www.researchgate.net/profile/Sara_Sousi"
 
 defaults:
