@@ -1,30 +1,12 @@
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes"
-# remote_theme: academicpages/academicpages.github.io
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
 show_downloads: true
-# github: [metadata]
+github: [metadata]
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Sara Sousi"
+title                    : Sara Sousi
 title_separator          : "-"
 name                     : &name "Sara Sousi"
 #url                      : "https://sarasousi.github.io"
 repository               : "SaraSousi/SaraSousi.github.io"
-
-author:
-  # Biographic information
-  name             : "Sara Sousi"
-  avatar           : "https://avatars.githubusercontent.com/u/63481742?v=4"
-  bio              : "Data Scientist & Researcher"
-  location         : "London, UK"
-  employer         : "EY, UCL"
-  email            : "sara.sousi@icloud.com" 
-  # Websites
-  github           : "SaraSousi"
-  linkedin         : "sara-sousi"
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=P64jnJ8AAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-0494-5138"
-  #pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Sara+Sousi&sort=date"
-  researchgate     : "https://www.researchgate.net/profile/Sara_Sousi"
