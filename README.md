@@ -1,6 +1,6 @@
-# Data Scientist
+Data Scientist
 
-#### Technical Skills: Python, R, SQL, MATLAB, Flutter, Bash
+## Technical Skills: Python, R, SQL, MATLAB, Flutter, Bash
 
 ## Education
 - MRes Bioinformatics in Oncology (Computational Biology)	@ Imperial College London (_2019-2020_)	 			        		
