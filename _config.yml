@@ -1,0 +1,17 @@
+remote_theme: academicpages/academicpages.github.io
+show_downloads: true
+github: [metadata]
+
+author:
+  name             : "Sara Sousi"
+  avatar           : "https://avatars.githubusercontent.com/u/63481742?v=4"
+  github           : "SaraSousi"
+  twitter          : "sara_sousi_"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
