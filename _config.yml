@@ -1,6 +1,13 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 show_downloads: true
 github: [metadata]
+
+
 
 # Basic Site Settings
 locale                   : "en-GB"
