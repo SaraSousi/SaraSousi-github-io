@@ -1,4 +1,6 @@
-remote_theme: academicpages/academicpages.github.io
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme: academicpages/academicpages.github.io
 show_downloads: true
 github: [metadata]
 
