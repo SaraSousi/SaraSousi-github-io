@@ -38,7 +38,7 @@
 
 **Researcher @ Imperial College London - Institute of Reproductive Developmental Biology (_Sept 2020 - Sept 2021_)**
 - Developed a machine learning model using LASSO regression to predict the progression of high-grade serous ovarian cancer patients, leveraging RNA-Seq gene expression data and MYLK3 gene beta methylation values. Conducted model development and analyses in R.
-- Supervised by [Professor (Sadaf Ghaem-Maghami](https://profiles.imperial.ac.uk/s.ghaem-maghami/publications)
+- Supervised by [Professor Sadaf Ghaem-Maghami](https://profiles.imperial.ac.uk/s.ghaem-maghami/publications)
 
 **Postgraduate Researcher @ Imperial College London - Institute of Reproductive Developmental Biology (_Sept 2019 - Sept 2020_)**
 - Investigated the effect of alcohol consumption, BMI, and smoking on the prognosis of serous ovarian cancer patients; further build a logistic regression machine learning model predicting the exposure levels using methylation (Illumina 450k) and gene expression data in R.
