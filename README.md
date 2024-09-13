@@ -1,4 +1,4 @@
-Data Scientist
+# Data Scientist
 
 ## Technical Skills: Python, R, SQL, MATLAB, Flutter, Bash
 
@@ -33,13 +33,13 @@ Data Scientist
 -	Supervised by (Professor Anne Greenough)[https://www.kcl.ac.uk/people/professor-anne-greenough]
 
 **App Developer @ Virtuoso (_June 2021 - December 2021_)**
-- Worked on the prototype of the mobile application of Virtuoso, a MedEd / EdTech start up using Flutter, for deployment in iOS and Android mobile phones. Exited, as I realised app creation was not my calling. 
+- Worked on the prototype of the mobile application of Virtuoso, a MedEd / EdTech start up using Flutter, for deployment in iOS and Android mobile phones. Exited, as the founding team wanted to take another direction. 
 - Virtuoso entered demo day, an annual event where London’s leading universities (Imperial, UCL and KCL) come together to showcase the best and brightest start-ups. Virtuoso is powered by King’s Accelerator.
 
-**Researcher @ Imperial College London - Institute of Reproductive Developmental Biology (_September 2020 - September 2021_)**
+**Researcher @ Imperial College London - Institute of Reproductive Developmental Biology (_Sept 2020 - Sept 2021_)**
 - Developed a machine learning model using LASSO regression to predict the progression of high-grade serous ovarian cancer patients, leveraging RNA-Seq gene expression data and MYLK3 gene beta methylation values. Conducted model development and analyses in R.
 - Supervised by [Professor (Sadaf Ghaem-Maghami](https://profiles.imperial.ac.uk/s.ghaem-maghami/publications)
 
-**Postgraduate Researcher @ Imperial College London - Institute of Reproductive Developmental Biology (_September 2020 - September 2021_)**
+**Postgraduate Researcher @ Imperial College London - Institute of Reproductive Developmental Biology (_Sept 2019 - Sept 2020_)**
 - Investigated the effect of alcohol consumption, BMI, and smoking on the prognosis of serous ovarian cancer patients; further build a logistic regression machine learning model predicting the exposure levels using methylation (Illumina 450k) and gene expression data in R.
 - Supervised by [Dr James Flanagan](https://profiles.imperial.ac.uk/j.flanagan)
